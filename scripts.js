@@ -39,7 +39,7 @@ const Bomba = {
     y: undefined,
 }
 
-let level = 3 ;
+let level = 0 ;
 
 let life = 3 ;
 showlife();
